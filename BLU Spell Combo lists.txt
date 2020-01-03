@@ -1,0 +1,194 @@
+**SCH ONRY**
+immanence aero > immanence noctohelix >Gravitation> Kaustra (MB)
+immanence blizzard > immanence water4 >Fragmentation> Ionohelix (MB)
+immanence fire > immanence Thunder4 >Fusion> Luminohelix (MB)
+immanence Luminohelix > imm+ebul+alac stone5 >Distortion>(parc+ebul) Shattersoul >Darkness> Kaustra (MB) got infinite strats anyway, why not?
+
+
+**BLU ONRY**
+DD Spec
+Point Requirement: 55
+
+Quad. Continuum
+Delta Thrust
+Barbed Crescent
+Empty Thrash
+Heavy Strike
+Thrashing Assault
+Sudden Lunge
+
+Nat. Meditation
+Erratic Flutter
+Battery Charge
+Winds of Promy.
+
+Molting Plumage
+Blazing Bound
+Fantod
+
+
+This set provides you with all of the DD traits you'll need to deal the most damage that you can while leaving open some points for utility. You could set Frightful Roar, Magic Fruit, Cocoon, or other such spells to bolster your defensive and offensive support abilities with as little as one job point spent.
+
+
+
+
+High Tier DD Spec
+Point Requirement: 68
+
+Quad. Continuum
+Delta Thrust
+Barbed Crescent
+Empty Thrash
+Heavy Strike
+Thrashing Assault
+Sudden Lunge
+Glutinous Dart
+Sweeping Gouge
+
+Nat. Meditation
+Erratic Flutter
+Winds of Promy.
+White Wind
+Frightful Roar
+Cocoon
+
+Molting Plumage
+Blazing Bound
+Fantod
+
+
+
+This is an improved version of the standard DD spec. It adds additional an accuracy bonus trait and numerous utility spells while retaining Dual Wield III, Triple Attack, and Store TP. If the extra accuracy is unnecessary, you can remove Vanity Dive and Frenetic Rip for spells like Barrier Tusk, Whirl of Rage, and Dream Flower for additional utility and HP or Battery Charge if you feel that MP will become an issue.
+
+
+
+
+Higher Tier DD Spec
+Point Requirement: 70 (and 100JP Gift)
+
+Quad. Continuum
+Delta Thrust
+Barbed Crescent
+Empty Thrash
+Heavy Strike
+Thrashing Assault
+Sudden Lunge
+Glutinous Dart
+Sinker Drill
+Sweeping Gouge
+Paralyzing Triad
+
+Nat. Meditation
+Erratic Flutter
+Barrier Tusk/Magic Fruit/Occultation/Saline Coat/Battery Charge/Magic Barrier/Dream Flower
+
+Diffusion Ray
+Molting Plumage
+Blazing Bound
+Fantod
+
+
+
+With maximum Job Points into blue magic set points and the level 100 Gift, this spell set ends up giving you Dual Wield IV, Triple Attack, Store TP III, Accuracy Bonus II, Critical Attack Bonus II, Skillchain Bonus II and other minor traits. Needless to say, a veritable bevy of powerful traits that indirectly affect gearing. With ideal gear, this is the best spellset for out and out DDing until you hit get your second job trait bonus.
+
+Zahak Reborn (Highest Tier DD Spec)
+Point Requirement: 75 and 1200 JP gift
+Delta Thrust
+Barbed Crescent
+Molting Plumage
+Empty Thrash
+Heavy Strike
+Thrashing Assault
+Sudden Lunge
+Fantod
+Diffusion Ray
+Sinker Drill
+Nature’s Meditation
+Erratic Flutter
+Magic Fruit
+Paralyzing Triad
+Tenebral Crush
+
+This set will give you a colossal amount of stopping power. Dual Wield IV, Store TP IV, Skillchain Bonus III, Critical Attack Bonus III, Triple Attack, and Accuracy Bonus III are your primary DD traits. The set also gives you a powerful buff in the form of Nature’s Meditation and an excellent defense down with Tenebral Crush. You will have 7 set points remaining to do with as you wish. Personally, I tailor the remaining points to either fill in the gaps of utility when playing lowman, with spells like Winds of Promy or White Wind, or to set stronger DD traits, such as Attack Bonus III or an additional Accuracy tier, when playing in a large group. With properly optimized gear, this set is the absolute best you can use for physical damage.
+
+
+Dynamis Spec
+Required Points: 60
+
+Quad. Continuum
+Delta Thrust
+Barbed Crescent
+Empty Thrash
+Heavy Strike
+Sudden Lunge
+Glutinous Dart
+Whirl of Rage
+
+Erratic Flutter
+Battery Charge
+Winds of Promy.
+
+Animating Wail
+Mortal Ray
+Blazing Bound
+Fantod
+Charged Whisker
+Evryone. Grudge
+Amorphic Spikes
+
+Provides Treasure Hunter, buffs, a moderate amount of AoE damage, and a bevy of offensive traits to facilitate efficient Dynamis farming. Do not fear for the lack of healing spells, Sanguine Blade is particularly effective in Dynamis and is the primary tool used for healing if it ever becomes necessary. If you have some job points, you can add and change around additional spells to this set to increase your effectiveness even further. For example, Thrashing Assault to bump DA up to TA, or Benthic Typhoon/Subduction for more AoE damage (and in the case of Subduction, stronger Sanguine Blades).
+
+
+
+
+AoE Spec
+Required Points: 59
+
+Delta Thrust + Barbed Crescent (Used solely for subjobs without native DW)
+Glutinous Dart
+Spectral Floe
+Subduction
+Entomb
+Tenebral Crush
+Cocoon
+Barrier Tusk
+Occultation
+Diamondhide
+Dream Flower
+Magic Fruit
+Magic Hammer
+Battery Charge
+
+This set is designed specifically for cleaving. It allows you to deal with any scenario that requires AoE damage while preserving yourself and offering a wide array of defensive benefit. Add or remove elemental nukes depending on what your targets are weak to. With job points, you can add additional spells to this set to increase single target damage or survivability. 
+
+
+
+
+--Useful Self Skillchains--
+With Chain Affinity, you can easily create self skillchains to enhance your damage. Here are the better ones that you should be looking to use whenever you're attempting a skillchain.
+
+
+Level	Skillchain	Elements	Skill Combination
+40	Fusion	Fire/Light	Red Lotus Blade -> Jet Stream
+48	Gravitation	Darkness/Earth	Red Lotus Blade -> Sickle Slash
+60	Fusion	Fire/Light	Red Lotus Blade -> Dimensional Death
+60	Gravitation	Darkness/Earth	Red Lotus Blade -> Death Scissors
+70	Light	Fire/Thunder/Wind/Light	Savage Blade -> Cannonball
+72	Distortion	Ice/Water	Savage Blade -> Disseverment
+75	Darkness	Ice/Water/Earth/Darkness	Expiacion -> Vertical Cleave
+81	Light	Fire/Thunder/Wind/Light	Savage Blade -> Goblin Rush
+83	Darkness	Ice/Water/Earth/Darkness	Expiacion -> Benthic Typhoon
+85	Distortion	Ice/Water	Savage Blade -> Quad. Continuum
+85	Fusion	Fire/Light	Chant du Cygne -> Goblin Rush
+85	Darkness	Ice/Water/Earth/Darkness	Chant du Cygne -> Benthic Typhoon
+96	Darkness	Ice/Water/Earth/Darkness	Requiescat -> Quad. Continuum
+97	Light*	Fire/Thunder/Wind/Light	Chant du Cygne -> Tourbillion
+98	Darkness	Ice/Water/Earth/Darkness	Expiacion -> Amorphic Spikes
+98	Darkness	Ice/Water/Earth/Darkness	Chant du Cygne -> Amorphic Spikes
+99	Light*	Fire/Thunder/Wind/Light	Chant du Cygne -> Bilgestorm
+99	Darkness	Ice/Water/Earth/Darkness	Chant du Cygne -> Bloodrake
+99	Darkness	Ice/Water/Earth/Darkness	Chant du Cygne -> Paralyzing Triad
+99	Light	Fire/Thunder/Wind/Light	Savage Blade -> Thrashing Assault
+99	Darkness	Ice/Water/Earth/Darkness	Chant du Cygne -> Sinker Drill
+
+*Can result in a double Light/Darkness.

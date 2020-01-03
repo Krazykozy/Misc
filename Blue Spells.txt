@@ -1,0 +1,55 @@
+
+Level	Spell		Level	Spell			Level	Spell			Level	Spell
+1	Foot Kick	 	48	Blood Saber	 		70	Asuran Claws	 	91	Barrier Tusk
+1	Pollen	 		48	Jettatura	 		70	Cannonball	 		91	Mortal Ray
+1	Sandspin	 	48	Refueling	 		71	Heat Breath	 		92	Heavy Strike
+4	Power Attack	48	Sickle Slash		71	Lowing	 			92	Water Bomb
+4	Sprout Smack	50	Frightful Roar		71	Triumphant Roar	 	93	Dark Orb
+4	Wild Oats	 	50	Ice Break	 		72	Disseverment	 	94	White Wind
+8	Cocoon	 		50	Self-Destruct		72	Saline Coat	 		95	Harden Shell
+8	Metallic Body	52	Cold Wave	 		72	Sub-zero Smash	 	95	Sudden Lunge
+8	Queasyshroom	52	Filamented Hold		73	Mind Blast	 		95	Thunderbolt
+12	Battle Dance	54	Hecatomb Wave		73	Ram Charge	 		96	Absolute Terror
+12	Feather Storm	54	Radiant Breath		73	Temporal Shift	 	96	Quadrastrike
+12	Head Butt	 	56	Feather Barrier		74	Actinic Burst	 	96	Vapor Spray
+16	Healing Breeze	58	Flying Hip Press	74	Magic Hammer	 	97	Gates of Hades
+16	Helldive	 	58	Light of Penance	74	Reactor Cool	 	97	Thunder Breath
+16	Sheep Song	 	58	Magic Fruit	 		75	Exuviation	 		97	Tourbillion
+18	Blastbomb	 	60	Death Scissors		75	Plasma Charge	 	98	Amorphic Spikes
+18	Bludgeon	 	60	Dim. Death			75	Vertical Cleave	 	98	Orcish Counterstance
+18	Cursed Sphere	60	Spiral Spin	 		76	Plenilune Embrace	98	Pyric Bulwark
+20	Blood Drain	 	61	Bad Breath	 		77	Acrid Stream	 	99	Barbed Crescent
+20	Claw Cyclone	61	Eyes On Me	 		77	Leafstorm	 		99	Blistering Roar
+22	Poison Breath	61	Maelstrom	 		78	Cimicine Discharge	99	Bilgestorm
+24	Soporific	 	61	Seedspray	 		78	Regeneration	 	99	Bloodrake
+26	Screwdriver	 	62	Body Slam	 		79	Animating Wail	 	99	Carcharian Verve
+28	Bomb Toss	 	62	Memento Mori	 	79	Battery Charge	 	99	Crashing Thunder
+30	Grand Slam	 	62	1000 Needles	 	80	Blazing Bound	 	99	Diffusion Ray
+30	Wild Carrot	 	63	Frenetic Rip	 	79	Demoralizing Roar	99	Droning Whirlwind
+32	Chaotic Eye	 	63	Frypan	 			80	Final Sting	 		99	Embalming Earth
+32	Sound Blast	 	63	Hydro Shot	 		81	Goblin Rush	 		99	Erratic Flutter
+34	Death Ray	 	63	Spinal Cleave	 	82	Vanity Dive	 		99	Foul Waters
+34	Smite of Rage	64	Feather Tickle		82	Magic Barrier		99	Glutinous Dart
+36	Digest			64	Voracious Trunk		83	Whirl of Rage		99	Nature's Meditation
+36	Pinecone Bomb	64	Yawn				83	Benthic Typhoon		99	Paralyzing Triad
+38  Blank Gaze		65	Infrasonics			84	Auroral Drape		99	Polar Roar
+38	Jet Stream		65	Zephyr Mantle		84	Osmosis				99	Rail Cannon
+38	Uppercut		66	Corrosive Ooze		85	Quadratic Continuum	99	Rending Deluge
+40	Mysterious Light66	Frost Breath		85	Fantod				99	Retinal Glare
+40	Terror Touch	66	Sandspray			86	Thermal Pulse		99	Restoral
+42	MP Drainkiss	67	Diamondhide			87	Dream Flower		99	Retinal Glare
+42	Venom Shell		67	Enervation			87	Empty Thrash		99	Sinker Drill
+44	Blitzstrahl		68	Firespit			88	Charged Whisker		99	Subduction
+44	Mandibular Bite	68	Warm-Up				88	Occultation			99	Tempestuous Upheaval
+44	Stinking Gas	69	Hysteric Barrage	89	Delta Thrust		99	Thrashing Assault
+46	Awful Eye		69	Regurgitation		89	Winds of Promyvion	99	Uproot
+46	Geist Wall		69	Tail Slap			90	Everyone's Grudge	99	Wind Breath
+46	Magnetite Cloud	70	Amplification		90	Reaving Wind		~	~
+ 
+
+September 2014 Blue Magic Additions
+Level	Spell			Level	Spell
+99	Crashing Thunder	99	Restoral
+99	Diffusion Ray	 	99	Sinker Drill
+99	Polar Roar	 		99	Uproot
+99	Rail Cannon	 		~	~
